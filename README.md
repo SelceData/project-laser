@@ -13,6 +13,6 @@ Third, open your browser and type: 127.0.0.1/[htdocs folder name]
 
 For playing on your android or iOS device they need to be in the same local network with your computer. Usually its 192.168.1.100
 
-Original game was written by Supercell and all rights is received.
+<h4>Original game was written by Supercell and all rights is received.</h4>
 
 For any questions message me in Discord: Selce#1880
