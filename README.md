@@ -1,5 +1,5 @@
 # Brawl Stars - Project Laser
-This is restored version of Project Laser's game of Brawl Stars without redirecting to link.brawlstars.com
+<h4>This is restored version of Project Laser's game of Brawl Stars without redirecting to link.brawlstars.com</h4>
 
 You can play this game even on PC using space and arrow keys as controls.
 
@@ -12,5 +12,7 @@ Second, start apache server in XAMPP control app.
 Third, open your browser and type: 127.0.0.1/[htdocs folder name]
 
 For playing on your android or iOS device they need to be in the same local network with your computer. Usually its 192.168.1.100
+
+Original game was written by Supercell and all rights is received.
 
 For any questions message me in Discord: Selce#1880
