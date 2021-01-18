@@ -1,5 +1,4 @@
 # Brawl Stars - Project Laser
-<h4>This is restored version of Project Laser's game of Brawl Stars without redirecting to link.brawlstars.com</h4>
 
 You can play this game even on PC using space and arrow keys as controls.
 
